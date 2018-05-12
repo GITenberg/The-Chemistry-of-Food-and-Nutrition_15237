@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5936'
     url: http://www.gutenberg.org/2009/agents/5936
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15237#The-Chemistry-of-Food-and-Nutrition
 gutenberg_bookshelf:
 - Cookery
 - Technology
