@@ -1,0 +1,30 @@
+_repo: The-Chemistry-of-Food-and-Nutrition_15237
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duncan, A. W.
+    gutenberg_agent_id: '5936'
+    url: http://www.gutenberg.org/2009/agents/5936
+description: ''
+gutenberg_bookshelf:
+- Cookery
+- Technology
+- Chemistry
+gutenberg_issued: '2005-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Food -- Analysis'
+- !lcsh 'Diet'
+- !lcsh 'Vegetarianism'
+- !lcc 'TX'
+title: The Chemistry of Food and Nutrition
+url: http://www.gutenberg.org/ebooks/15237
